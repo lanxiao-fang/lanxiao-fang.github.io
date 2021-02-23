@@ -1,4 +1,4 @@
-#web_bg {
+#page-header {
   /* 背景图像的地址（url括号里）  */
   background: url(/public/img/bg.png);
   /* 背景图像不重复 */
